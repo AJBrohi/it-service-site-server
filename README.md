@@ -1,5 +1,7 @@
-# Assignment 11 Server Side
-* you can add, delete, update which means CRUD operations can be done in admin dashboard
-* also `programminghero001@gmail.com` added this mail as an admin, you can check it out in dashboard section
+# AJ IT Farm - (Server Side - Full Stack)
 
 ## server link - (https://damp-shelf-97362.herokuapp.com/)
+
+* CRUD operations by MongoDB can be done in admin dashboard.
+* Admin can add service, manage service, add package, manage package, add admin, see all orders, update order status.
+* Node.js, Express.js and MongoDB used here. Deployment done in Herokuapp.
